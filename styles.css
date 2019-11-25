@@ -1,0 +1,17 @@
+a{
+  color: red;
+  font-size: 50px;
+}
+p{
+  color: yellow;
+  font-size: 30px;
+}
+.link3{
+  color: green;
+}
+.borda{
+  border: 1px solid blue;
+}
+.red-links a{
+  color:purple;
+}

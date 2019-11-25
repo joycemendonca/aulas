@@ -1,0 +1,80 @@
+.allcenter{
+  margin: 0 auto;
+  width: 1024px;
+}
+
+header{
+  background-color: lavender;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 15px;
+  text-align: left;
+  margin-bottom: 20px;
+
+}
+
+.altura{
+  height: 150px;
+  background-color: mediumslateblue;
+  align-content: center;
+  text-align: center;
+
+}
+
+.imagemlogo{
+  position: left;
+  left: 250px;
+  top: 100px;
+}
+
+footer{
+  background-color: lavender;
+  margin-bottom: 20px;
+}
+
+.columnleft{
+  flex-direction: column;
+  left: left;
+  width: 50%;
+  background-color: lightpink;
+}
+
+.columnright{
+  flex-direction: column;
+  right: right;
+  width: 50%;
+  background-color: lightsalmon;
+}
+
+.contentcolumn{
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.column1{
+  flex: 50%;
+  background-color: mediumpurple;
+}
+
+.column2{
+  flex: 50%;
+  background-color: mediumslateblue;
+}
+
+.alignright{
+  text-align: right;
+}
+
+.aligncenter{
+  text-align: center;
+}
+
+.alignleft{
+  text-align: left;
+}
+
+.box{
+  background-image:url(https://abrilcapricho.files.wordpress.com/2018/07/istock-626497954.jpg?quality=85&strip=info&w=620&h=465);
+  height: 400px;
+}
