@@ -1,0 +1,37 @@
+body {
+    font-family: open sans;
+}
+
+.title{
+    text-align: center;
+}
+
+.imgbanner{
+    width: calc(100% - 160px);
+    height: 530px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.headermenu{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.menu{
+    padding-top: 30px;
+    font-style: oblique;
+    color: black;
+}
+
+.map{
+    display: flex;
+    justify-content: center;
+}
+
+.content1{
+    margin-right: 80px;
+    margin-left: 80px;
+}
