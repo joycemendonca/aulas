@@ -11,21 +11,14 @@ body{
   align-content: center;
   width: 100%;
   height: auto;
-  margin-left: 15px;
-  margin-right: 15px;
-  margin-top: 15px;
-  margin-bottom: 15px;
+
 }
 
 .align-images{
-    width: 48%;
+    width: 50%;
     height: auto;
-    margin-top: 153px;
+    text-align: center;
 
-}
-
-.align-images a{
-    align-content: center
 }
 
 .background{
@@ -53,15 +46,13 @@ footer{
     background-color: crimson;
     margin-left: 15px;
     margin-right: 15px; 
-    margintop: 15px;
+    margin-top: 15px;
     margin-bottom: 15px;
     text-align: center
 }
 
 .carrossel1{
-    background-image: ;
-    height: 600px;
-    width: 100% CALC-30px;
+    background-image: none;
     margin-left: 15px;
     margin-right: 15px;
     margin-top: 15px;
