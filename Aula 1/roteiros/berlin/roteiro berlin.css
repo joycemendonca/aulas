@@ -1,21 +1,19 @@
 body {
-    font-family: open sans;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .title{
     text-align: center;
+    font-size: medium;
 }
 
 .imgbanner{
-    width: calc(100% - 160px);
-    height: 530px;
-    margin-right: 80px;
-    margin-left: 80px;
+    width: 100%;
+    height: 533px;
 }
 
 .headermenu{
-    display: flex;
-    justify-content: space-between;
+    text-align: center;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -24,6 +22,7 @@ body {
     padding-top: 30px;
     font-style: oblique;
     color: black;
+    text-align: end;
 }
 
 .map{
@@ -48,11 +47,6 @@ body {
 
 .map-images{
     display: flex;
+    justify-content: space-between;
 }
 
-.edit-space{
-    justify-content: space-between;
-    display: flex;
-    margin-left: 20px;
-    margin-right: 20px;
-}
